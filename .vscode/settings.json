@@ -1,0 +1,33 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.ipynb_checkpoints": true,
+        "**/__pycache__": true,
+        "*.egg*/**": true,
+        "build/**": true,
+        "dist/**": true,
+        "obj/**": true,
+        "bin/**": true,
+        "**/examples/**/*.csv": true
+    },
+    "vscode_vibrancy.opacity": 0.1,
+    "vscode_vibrancy.refreshInterval": 60,
+    "editor.wordWrap": "on",
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingComments": "always",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "diffEditor.codeLens": true,
+    "accessibility.hideAccessibleView": true,
+    "search.showLineNumbers": true,
+    "scm.alwaysShowRepositories": true,
+    "editor.cursorBlinking": "phase",
+    "synthwave84.disableGlow": false,
+    "synthwave84.brightness": 0.45,
+    "chat.tools.autoApprove": true,
+    "chat.agent.enabled": true,
+    "chat.extensionTools.enabled": true,
+    "chat.mcp.discovery.enabled": true,
+    "chat.mcp.enabled": true
+}
